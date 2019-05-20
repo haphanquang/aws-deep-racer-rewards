@@ -1,2 +1,2 @@
 # aws-deep-racer-rewards
-deep racer reward methods
+Categorized by Road Type
